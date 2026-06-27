@@ -7,5 +7,6 @@ btn.addEventListener("click",()=>{
        text.value = "";
     for(let i=number;i<=number*10;i=i+number){
         text.value+=i+"\n";
+        
     }
 })
